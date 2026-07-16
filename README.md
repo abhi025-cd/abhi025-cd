@@ -1,16 +1,14 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Abhishek Pawar" src="dark.svg">
+</picture>
 
-<!--
-**abhi025-cd/abhi025-cd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on **agentic AI systems** for manufacturing clients — multi-agent orchestration with LangGraph & CrewAI
+- 🌱 I'm currently learning **LLMOps** and Responsible AI practices (prompt guardrails, human-in-the-loop validation)
+- 👯 I'm looking to collaborate on **RAG pipelines, AI agents, and production LLM systems**
+- 💬 Ask me about **LangChain, LangGraph, FastAPI, RAG, or agentic workflows**
+- 📫 Reach me at **abhipawar025@gmail.com**
+- ⚡ Fun fact: I've shipped 3 POC-to-production AI systems that manage 50+ assets per plant across manufacturing sites
