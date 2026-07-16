@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dak.svg">
-  <source media="(prefers-color-scheme: light)" srcset="ligt.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
   <img alt="Abhishek Pawar" src="dark.svg">
 </picture>
 
